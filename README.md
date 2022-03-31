@@ -3,4 +3,4 @@ Civil Engineering Student's Association, VJTI
 
 .
 .
-![Website UI](url "Title")
+![Website UI](url "cesavjti/oie_png.png")
