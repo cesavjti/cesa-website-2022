@@ -27,12 +27,7 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
-.notLoaded {
-  height: 100vh;
-  overflow: hidden;
-  position: fixed;
-  margin: 0px;
-}
+
 
 /*--------------------------------------------------------------
 # Preloader
