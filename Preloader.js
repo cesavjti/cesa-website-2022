@@ -4,7 +4,7 @@ $(document).ready(function(){
     });
 
     function fadeout(){
-        $('#Preloader').delay(2000).fadeOut('slow', function() {
+        $('#preloader').delay(2000).fadeOut('slow', function() {
            $('.notLoaded').removeClass('notLoaded');
         });
     }
